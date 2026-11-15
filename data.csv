@@ -1,0 +1,18 @@
+name,category,lat,lon,@id,amenity,building,@geometry,addr:city,addr:country,addr:housenumber,addr:postcode,addr:state,addr:street,social_facility,social_facility:for,website,landuse,fountain,bottle,indoor,check_date,man_made
+Drinking fountain,water,44.5652524,-123.2655234,node/5046925341,drinking_water,,,,,,,,,,,,,bubbler,,,,
+Drinking fountain,water,44.5638701,-123.2586217,node/5047047198,drinking_water,,,,,,,,,,,,,bubbler,,,,
+Drinking fountain,water,44.5883024,-123.2637394,node/7638758487,drinking_water,,,,,,,,,,,,,,,,,
+Outdoor drinking fountain,water,44.5647508,-123.2620597,node/8958643658,drinking_water,,,,,,,,,,,,,bubbler,no,no,,
+Outdoor drinking fountain,water,44.565134,-123.2647563,node/8958875994,drinking_water,,,,,,,,,,,,,bubbler,no,no,,
+Outdoor drinking fountain,water,44.5654701,-123.2577675,node/8961418554,drinking_water,,,,,,,,,,,,,bubbler,no,no,,
+Indoor drinking fountain with bottle filler,water,44.5655687,-123.2643408,node/8964445116,drinking_water,,,,,,,,,,,,,bubbler,yes,yes,2026-01-29,water_tap
+Corvallis Men's Shelter,shelter,44.554564,-123.2640473,node/10879719944,social_facility,,,,,,,,,shelter,homeless,,,,,,2026-10-13,
+Drinking fountain,water,44.5747196,-123.2479727,node/11918751030,drinking_water,,,,,,,,,,,,,,,,,
+Drinking fountain,water,44.5713449,-123.2520288,node/11918751031,drinking_water,,,,,,,,,,,,,,,,,
+Drinking fountain,water,44.5681348,-123.2496626,node/11918751032,drinking_water,,,,,,,,,,,,,,,,,
+Drinking fountain,water,44.564784,-123.2652802,node/12077769323,drinking_water,,,,,,,,,,,,,bubbler,,,,
+Drinking fountain,water,44.5651266,-123.2767217,node/12183327776,drinking_water,,,,,,,,,,,,,,,,,
+Indoor drinking fountain,water,44.5670487,-123.275595,node/13520778469,drinking_water,,,,,,,,,,,,,bubbler,,yes,,
+Indoor drinking fountain,water,44.5674052,-123.2755622,node/13520781255,drinking_water,,,,,,,,,,,,,bubbler,,yes,,
+Drinking fountain,water,44.5710619,-123.2626694,node/13523146261,drinking_water,,,,,,,,,,,,,,,,,
+Corvallis Food Bank,food,44.54669,-123.2674129,node/14030328050,social_facility,,,,,,,,,food_bank,,,,,,,,
