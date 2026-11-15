@@ -27,7 +27,9 @@ fetch("data.geojson")
   .then(function (data) {
     L.geoJSON(data, {
       onEachFeature: function (feature, layer) {
-        layer.bindPopup(feature.properties.name || "Unnamed");
+        var p = feature.properties;
+        var label = p.name || p.social_facility || p.amenity;
+        layer.bindPopup(label.replace(/_/g, " "));
       }
     }).addTo(map);
   });
